@@ -128,7 +128,7 @@ pygame>=2.5.0
 Go to [Google AI Studio](https://aistudio.google.com/) and sign in with your Google account.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1ypi/mimi/main/images/step1.png" alt="AI Studio Login" width="700"/>
+  <img src="https://github.com/1ypi/mimi/blob/main/images/step1.png?raw=true" alt="AI Studio Login" width="700"/>
 </p>
 
 #### 2. **Accept Terms of Service**
