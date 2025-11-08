@@ -1,0 +1,31 @@
+# MIMI - AI Command-Line Assistant
+# Python Dependencies
+
+# AI/ML Libraries
+google-generativeai>=0.3.0
+
+# GUI Automation
+pyautogui>=0.9.54
+
+# System Information & Process Management
+psutil>=5.9.0
+
+# Speech Recognition
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+
+# Image Processing
+Pillow>=10.0.0
+
+# Text-to-Speech
+gTTS>=2.3.2
+
+# Audio Playback
+pygame>=2.5.0
+
+# Standard Libraries (included with Python, listed for reference)
+# tkinter - GUI framework (included in standard Python installation)
+# subprocess - Command execution (built-in)
+# threading - Concurrent operations (built-in)
+# json - Configuration management (built-in)
+# pathlib - File path handling (built-in)
