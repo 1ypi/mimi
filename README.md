@@ -405,7 +405,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ If you find MIMI useful, please consider giving it a star!
 
-Made with ❤️ by [Your Name](https://github.com/1ypi)
+Made with ❤️ by [1ypi](https://github.com/1ypi)
 
 [⬆ Back to Top](#-mimi---ai-command-line-assistant)
 
