@@ -397,8 +397,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 💬 **Issues:** [GitHub Issues](https://github.com/1ypi/mimi/issues)
-- 📧 **Email:** your.email@example.com
-- 💻 **Discord:** [Join our community](#)
+- 💻 **Discord:** 1ypi
 
 ---
 
