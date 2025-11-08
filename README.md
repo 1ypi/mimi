@@ -10,7 +10,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20macOS-lightgrey.svg)](https://github.com)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1ypi/mimi/main/assets/demo.gif" alt="MIMI Demo" width="800"/>
+  <img src="https://raw.githubusercontent.com/1ypi/mimi/main/images/demo.gif" alt="MIMI Demo" width="800"/>
 </p>
 
 **MIMI** is a powerful AI-powered assistant that bridges natural language and system commands. Control your computer, launch applications, and automate tasks using simple voice commands or text input.
@@ -128,7 +128,7 @@ pygame>=2.5.0
 Go to [Google AI Studio](https://aistudio.google.com/) and sign in with your Google account.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1ypi/mimi/main/assets/step1.png" alt="AI Studio Login" width="700"/>
+  <img src="https://raw.githubusercontent.com/1ypi/mimi/main/images/step1.png" alt="AI Studio Login" width="700"/>
 </p>
 
 #### 2. **Accept Terms of Service**
@@ -140,7 +140,7 @@ On your first visit, you'll see a popup asking you to accept the Terms of Servic
 In the left sidebar, click on **"Get API key"** or click the key icon.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1ypi/mimi/main/assets/step2.png" alt="Get API Key Button" width="700"/>
+  <img src="https://raw.githubusercontent.com/1ypi/mimi/main/images/step2.png" alt="Get API Key Button" width="700"/>
 </p>
 
 #### 4. **Create API Key**
@@ -151,7 +151,7 @@ Click on **"Create API key"** button. You'll have two options:
 - **Create API key in existing project** *(If you already have a Google Cloud project)*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1ypi/mimi/main/assets/step3.png" alt="Create API Key" width="700"/>
+  <img src="https://raw.githubusercontent.com/1ypi/mimi/main/images/step3.png" alt="Create API Key" width="700"/>
 </p>
 
 #### 5. **Copy Your API Key**
@@ -164,7 +164,7 @@ AIzaSyB1234567890abcdefghijklmnopqrstuv
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1ypi/mimi/main/assets/step4.png" alt="Copy API Key" width="700"/>
+  <img src="https://raw.githubusercontent.com/1ypi/mimi/main/images/step4.png" alt="Copy API Key" width="700"/>
 </p>
 
 #### 6. **Security Best Practices**
