@@ -553,7 +553,7 @@ def voice_input_loop():
 
             if text.lower().startswith('mimi'):
 
-                command = text[6:].strip()
+                command = text[5:].strip()
 
                 exit_words = ['exit', 'quit', 'stop listening', 'bye', 'goodbye', 
                               'salir', 'detener', 'adiós', 'hasta luego']
@@ -1899,4 +1899,5 @@ def main():
     root.mainloop()
 
 if __name__ == "__main__":
+
     main()
